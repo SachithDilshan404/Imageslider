@@ -20,4 +20,4 @@ function updateSlideShow() {
 updateSlideShow();
 
 // Automatically change slide every 3 seconds
-setInterval(updateSlideShow, 5000);
+setInterval(updateSlideShow, 6000);
